@@ -1,0 +1,16 @@
+{
+  "name": "json-order-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json-order-tool": "file:",
+    "lodash": "^4.17.21"
+  }
+}

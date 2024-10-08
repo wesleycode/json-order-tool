@@ -1,0 +1,588 @@
+[
+    {
+      "id": 0,
+      "nome": "Adriano Teixeira Guimarães",
+      "descricao": "Doutor pela Ludwig-Maximilians-Universität München, Alemanha.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 1,
+      "nome": "Alaor Carlos Lopes Leite",
+      "descricao": "Doutor pela Ludwig-Maximilians-University Munich, Munique, Alemanha. Professor e Coordenador da Pós-graduação EAD em Direito e Processo Penal da ABDConst.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 2,
+      "nome": "Alexandre Morais da Rosa",
+      "descricao": "Doutor pela Universidade Federal do Paraná - UFPR. Professor na Universidade Federal de Santa Catarina - UFSC. Professor e Coordenador da Pós-graduação EAD em Direito e Processo Penal da ABDConst. Juiz de Direito em Santa Catarina.",
+      "descricao_completa": "",
+      "imagem": "https://files.abdconst.com.br/images/pessoas/alexandre-morais-da-rosa.webp",
+      "url": "#",
+      "categorias": [
+        "Professor Renomado"
+      ],
+      "ativo": true
+    },
+    {
+      "id": 3,
+      "nome": "Andrei Zenkner Schmidt",
+      "descricao": "Doutor pela Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS. Professor na Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS. Advogado crimininalista.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 4,
+      "nome": "André Ribeiro Giamberardino",
+      "descricao": "Doutor pela Universidade Federal do Paraná - UFPR. Professor na Universidade Federal de Santa Catarina - UFSC. Professor e Coordenador da Pós-graduação EAD em Direito e Processo Penal da ABDConst. Juiz de Direito em Santa Catarina.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 5,
+      "nome": "Andréa Maria Carneiro Lobo",
+      "descricao": "Doutora pela Universidade Federal do Paraná (UFPR). Professora da UNIBRASIL - Centro Universitário.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 6,
+      "nome": "Augusto Assis",
+      "descricao": "Doutorando pela Ludwig-Maximilians-Universität München, Alemanha.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 8,
+      "nome": "Aury Lopes Junior (Palestrante Convidado)",
+      "descricao": "Doutor pela Universidade Complutense de Madrid, Espanha. Professor da Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS. Advogado criminalista.",
+      "descricao_completa": "",
+      "imagem": "https://files.abdconst.com.br/images/pessoas/aury-lopes-jr.webp",
+      "url": "#",
+      "categorias": ["Professor Renomado"],
+      "ativo": true
+    },
+    {
+      "id": 9,
+      "nome": "Bernd Schünemann",
+      "descricao": "Doutor em Direito pela Georg-August-Universität Göttingen, Alemanha. Professor Catedrático de Direito Penal, Filosofia e Sociologia do Direito da Ludwig-Maximilians-Universität. München, Alemanha. Diretor Executivo do Institut für Rechtsphilosophie und Rechtsinformatik e do Institut für die gesamten Strafrechtswissenschaften, também da LMU München.",
+      "descricao_completa": "",
+      "imagem": "https://files.abdconst.com.br/images/pessoas/bernd-schuemann.webp",
+      "url": "#",
+      "categorias": [
+        "Professor Renomado"
+      ],
+      "ativo": true
+    },
+    {
+      "id": 10,
+      "nome": "Clara Roman Borges",
+      "descricao": "Doutora pela Universidade Federal do Paraná - UFPR. Professora da Universidade Federal do Paraná - UFPR.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 11,
+      "nome": "Claus Roxin",
+      "descricao": "Doutor honoris causa por mais de 25 Universidades pelo mundo. Professor catedrático emérito da Universidade Ludwig-Maximiliam, de Munique, Alemanha.",
+      "descricao_completa": "",
+      "imagem": "https://files.abdconst.com.br/images/pessoas/claus-roxin.webp",
+      "url": "#",
+      "categorias": [
+        "Professor Renomado"
+      ],
+      "ativo": true
+    },
+    {
+      "id": 12,
+      "nome": "Cláudio Roberto Cintra Bezerra Brandão",
+      "descricao": "Doutor em Direito pela Universidade Federal de Pernambuco - UFPE. Professor do PPGD da Pontifícia Universidade Católica de Minas Gerais - PUCMG.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 13,
+      "nome": "Davi Tangerino",
+      "descricao": "Pós-Doutor pela Max Planck Institut für internationales und vergleichendes Strafrecht em Freiburg. Doutor pela Universidade de São Paulo - USP.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 14,
+      "nome": "Diogo Malan",
+      "descricao": "Pós-Doutor pela Universidade de Coimbra, Portugal. Doutor pela Universidade de São Paulo - USP. Professor da Universidade Estadual do Rio de Janeiro - UERJ.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 15,
+      "nome": "Décio Alonso Gomes",
+      "descricao": "Doutor pela Universidade de São Paulo - USP. Professor do Ibmec/RJ. Promotor de Justiça no Estado do Rio de Janeiro.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 16,
+      "nome": "Décio Franco David",
+      "descricao": "Doutorando em Ciência Jurídica pela Universidade Estadual do Norte do Paraná - UENP. Professor da Universidade Federal do Paraná - UFPR. Advogado criminalista.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 17,
+      "nome": "Elmir Duclerc Ramalho Junior",
+      "descricao": "Doutor pela Universidade Estácio de Sá. Professor da Universidade Federal da Bahia - UFBA. Promotor de Justiça do Ministério Público da Bahia.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 18,
+      "nome": "Faria Costa",
+      "descricao": "",
+      "descricao_completa": "",
+      "imagem": "https://files.abdconst.com.br/images/pessoas/jose-faria.webp",
+      "url": "#",
+      "categorias": [
+        "Professor Renomado"
+      ],
+      "ativo": true
+    },
+    {
+      "id": 19,
+      "nome": "Fauzi Hassan Choukr",
+      "descricao": "Pós-Doutor pela Universidade de Coimbra, Portugal. Doutor pela Universidade de São Paulo - USP. Promotor de Justiça no Estado de São Paulo.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 20,
+      "nome": "Flaviane Barros",
+      "descricao": "",
+      "descricao_completa": "",
+      "imagem": "https://files.abdconst.com.br/images/pessoas/flaviane-barros.webp",
+      "url": "#",
+      "categorias": [
+        "Professor Renomado"
+      ],
+      "ativo": true
+    },
+    {
+      "id": 21,
+      "nome": "Flaviane de Magalhães Barros",
+      "descricao": "Pós-doutorado pela Università degli Studi Roma Ter.Doutora pela Universidade Católica de Minas Gerais. Professora da Universidade Federal de Ouro Preto-MG.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 22,
+      "nome": "Flávia Siqueira Cambraia",
+      "descricao": "Doutora pela Universidade Federal de Minas Gerais - UFMG. Professora na Universidade Presbiteriana Mackenzie.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 23,
+      "nome": "Francisco Monteiro Rocha Júnior",
+      "descricao": "Doutor pela Universidade Federal do Paraná - UFPR. Coordenação da Pós-Graduação Presencial e EAD em Direito e Processo Penal da ABDConst. Advogado criminalista.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 24,
+      "nome": "Frederico Horta",
+      "descricao": "Doutor pela Universidade Federal de Minas Gerais - UFMG. Professor da Universidade Federal de Minas Gerais - UFMG.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 25,
+      "nome": "Fábio D'Avila (Palestrante Convidado)",
+      "descricao": "Pós-Doutor em Ciências Penais pela Johann Wolfgang Goethe-Universität, Alemanha. Doutor pela Faculdade de Direito da Universidade de Coimbra, Portugal. Professor da Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS. Advogado criminalista.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 26,
+      "nome": "Guilherme Brenner Lucchesi",
+      "descricao": "Doutor em Direito pela Universidade Federal do Paraná - UFPR. Professor e Coordenador da Pós-Graduação EAD em Direito e Processo Penal da ABDConst. Professor da Universidade Federal do Paraná - UFPR. Advogado criminalista.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 27,
+      "nome": "Guilherme Merolli",
+      "descricao": "Mestre em Direito pela Universidade Federal do Paraná - UFPR. Advogado criminalista.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 28,
+      "nome": "Gustavo Badaró",
+      "descricao": "Doutor pela Universidade de São Paulo - USP. Professor da Universidade de São Paulo - USP. Advogado criminalista.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 29,
+      "nome": "Gustavo Quandt",
+      "descricao": "Mestre em Direito pela Universidade Federal do Paraná - UFPR. Defensor Público Federal.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 30,
+      "nome": "Heloisa Estellita",
+      "descricao": "Pós-Doutora pela Ludwig-Maximilians-Universität, Alemanha. Doutora pela Universidade de São Paulo - USP. Professora da Fundação Getúlio Vargas - SP.",
+      "descricao_completa": "",
+      "imagem": "https://files.abdconst.com.br/images/pessoas/heloisa-estellita.webp",
+      "url": "#",
+      "categorias": [
+        "Professor Renomado"
+      ],
+      "ativo": true
+    },
+    {
+      "id": 31,
+      "nome": "Henderson Fiirst de Oliveira",
+      "descricao": "Mestre pelo Centro Universitário São Camilo. Professor da Universidade Federal do Rio Grande do Sul - UFRS.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 32,
+      "nome": "Jesus Maria Silva Sánchez",
+      "descricao": "Doutor em Direito pela Universidade de Barcelona, Espanha. Professor Catedrático de Direito da Universidade Pompeu Fabra, Barcelona. Membro da 'Comisión General de Codificación del Ministerio de Justicia'.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 33,
+      "nome": "José Carlos Porciúncula",
+      "descricao": "Doutor em Direito Penal pela Universidade de Barcelona, Espanha. Professor do Instituto Brasiliense de Direito Público - IDP. Advogado criminalista.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 34,
+      "nome": "José Francisco de Faria Costa",
+      "descricao": "Doutor em Direito pela Faculdade de Direito da Universidade de Coimbra, Portugal. Professor Catedrático da Faculdade de Direito da Universidade de Coimbra, Portugal. Presidente da Mesa da Assembleia Geral do Instituto de Direito Penal Económico e Europeu.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 35,
+      "nome": "Juliano José Breda",
+      "descricao": "Doutor pela Universidade Federal do Paraná - UFPR. Advogado criminalista.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 36,
+      "nome": "Lenio Luiz Streck",
+      "descricao": "Pós-Doutor pela Universidade de Lisboa. Doutor pela Universidade Federal de Santa Catarina - UFSC. Professor UNESA-RJ e da Faculdade de Direito da Universidade de Lisboa. Membro Catedrático da ABDConst.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 37,
+      "nome": "Luis Gustavo Grandinetti Castanho de Carvalho",
+      "descricao": "Doutor pela Universidade do Estado do Rio de Janeiro - UERJ. Professor na Universidade do Estado do Rio de Janeiro - UERJ. Magistrado aposentado e Advogado criminalista.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 38,
+      "nome": "Luís Filipe Maksoud Greco",
+      "descricao": "Doutor pela Ludwig-Maximilians-Universität München, Alemanha. Assistente científico da Ludwig-Maximilians-Universität München, Alemanha.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 39,
+      "nome": "Marcelo Costenaro Cavali",
+      "descricao": "Doutor em Direito Penal pela Universidade de São Paulo - USP. Juiz instrutor no Supremo Tribunal Federal.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 40,
+      "nome": "Marcio Adriano Anselmo",
+      "descricao": "Doutor em Direito Internacional pela Faculdade de Direito da Universidade de São Paulo- USP. Delegado de Polícia Federal.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 41,
+      "nome": "Mariana de Assis Brasil e Weigert",
+      "descricao": "Doutora em Psicologia Social e Institucional pela Universidade Federal do Rio Grande. Professora Assistente do Centro Universitário Ritter dos Reis-RS.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 42,
+      "nome": "Marlus H. Arns de Oliveira",
+      "descricao": "Doutor em Direito pela Pontifícia Universidade Católica do Paraná - PUCPR. Advogado criminalista.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 43,
+      "nome": "Marta Saad",
+      "descricao": "",
+      "descricao_completa": "",
+      "imagem": "https://files.abdconst.com.br/images/pessoas/marta-saad.webp",
+      "url": "#",
+      "categorias": [
+        "Professor Renomado"
+      ],
+      "ativo": true
+    },
+    {
+      "id": 44,
+      "nome": "Maurício Stegemann Dieter",
+      "descricao": "Pós-Doutor pela Universidade do Estado do Rio de Janeiro - UERJ. Doutor pela Universidade Federal do Paraná - UFPR. Professor da Universidade de São Paulo - USP.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 45,
+      "nome": "Paulo César Busato",
+      "descricao": "Doutor pela Universidad Pablo de Olavide - Sevilha, Espanha. Professor da Universidade Federal do Paraná - UFPR. Procurador de Justiça no Estado do Paraná.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 46,
+      "nome": "Ricardo Jacobsen Gloeckner (Palestrante Convidado)",
+      "descricao": "Pós-doutor pela Università degli Studi di Napoli Federico II. Doutor em Direito pela Universidade Federal do Paraná - UFPR. Professor da Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 47,
+      "nome": "Ricardo Robles Planas",
+      "descricao": "Professor de Direito da Universidade Pompeu Fabra-Barcelona, Espanha.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 48,
+      "nome": "Rodrigo Régnier Chemim Guimarães",
+      "descricao": "Doutor pela Universidade Federal do Paraná - UFPR. Professor no Centro Universitário Curitiba - Unicuritiba. Procurador de Justiça do Ministério Público do Estado do Paraná.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 49,
+      "nome": "Rodrigo de Grandis",
+      "descricao": "Doutor em Direito Penal pela Universidade de São Paulo - (USP). Professor da Faculdade de Direito da Fundação Getúlio Vargas. Professor da Escola Superior do Ministério Público da União (ESMPU). Procurador da República do Ministério Público Federal.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 50,
+      "nome": "Rogério Schietti Cruz",
+      "descricao": "Doutor em Direito Processual pela Universidade de São Paulo - USP. Ministro do Superior Tribunal de Justiça.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 51,
+      "nome": "Rui Cunha Martins",
+      "descricao": "Pós-Doutor pela Université de Picardie-Amiens, França. Doutor pela Universidade de Coimbra, Portugal. Professor da Universidade de Coimbra.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 52,
+      "nome": "Salo de Carvalho",
+      "descricao": "Pós-Doutor em Criminologia pela Universitat Pompeu Fabra-Barcelona, Espanha. Doutor em Direito pela Universidade Federal do Paraná - UFPR. Professor da Universidade Federal do Rio de Janeiro - UFRJ.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 53,
+      "nome": "Silva Sánchez",
+      "descricao": "",
+      "descricao_completa": "",
+      "imagem": "https://files.abdconst.com.br/images/pessoas/silva-sanchez.webp",
+      "url": "#",
+      "categorias": [
+        "Professor Renomado"
+      ],
+      "ativo": true
+    },
+    {
+      "id": 54,
+      "nome": "Vera Regina Pereira de Andrade",
+      "descricao": "Pós-Doutora pela Universidade de Buenos Aires e pela Universidade Federal do Paraná-UFPR. Professora da Universidade Federal de Santa Catarina - UFSC.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 55,
+      "nome": "Victória-Amália de Barros Carvalho Gozdawa de Sulocki",
+      "descricao": "Mestre pela Universidade Cândido Mendes, RJ. Professora pela Pontifícia Universidade Católica do Rio de Janeiro - PUCRJ.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 56,
+      "nome": "Vladimir Aras",
+      "descricao": "Mestre pela Universidade Federal de Pernambuco - UFPE. Professor da Universidade Federal da Bahia - UFBA. Procurador Regional da República.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    },
+    {
+      "id": 57,
+      "nome": "Érica de Oliveira Hartmann",
+      "descricao": "Doutora em Direito pela UFPR. Pesquisadora-visitante no Instituto Max Planck de Frankfurt e de Freiburg, Alemanha. Defensora Pública Federal.",
+      "descricao_completa": "",
+      "imagem": "",
+      "url": "#",
+      "categorias": [],
+      "ativo": true
+    }
+  ]
